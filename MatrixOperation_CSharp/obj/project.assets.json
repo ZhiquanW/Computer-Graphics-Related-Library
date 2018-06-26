@@ -664,28 +664,30 @@
     ]
   },
   "packageFolders": {
-    "/home/zhiquanwang/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\mySab\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/Zhiquan.Wang/Documents/SourceCode/Git-Repository/Computer-Graphics-Related-Library/MatrixOperation_CSharp/MatrixOperation_CSharp.csproj",
+      "projectUniqueName": "c:\\Users\\mySab\\Documents\\SourceCode\\Git-Repository\\Computer-Graphics-Related-Library\\MatrixOperation_CSharp\\MatrixOperation_CSharp.csproj",
       "projectName": "MatrixOperation_CSharp",
-      "projectPath": "/mnt/c/Users/Zhiquan.Wang/Documents/SourceCode/Git-Repository/Computer-Graphics-Related-Library/MatrixOperation_CSharp/MatrixOperation_CSharp.csproj",
-      "packagesPath": "/home/zhiquanwang/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/Zhiquan.Wang/Documents/SourceCode/Git-Repository/Computer-Graphics-Related-Library/MatrixOperation_CSharp/obj/",
+      "projectPath": "c:\\Users\\mySab\\Documents\\SourceCode\\Git-Repository\\Computer-Graphics-Related-Library\\MatrixOperation_CSharp\\MatrixOperation_CSharp.csproj",
+      "packagesPath": "C:\\Users\\mySab\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\mySab\\Documents\\SourceCode\\Git-Repository\\Computer-Graphics-Related-Library\\MatrixOperation_CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/home/zhiquanwang/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\mySab\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
