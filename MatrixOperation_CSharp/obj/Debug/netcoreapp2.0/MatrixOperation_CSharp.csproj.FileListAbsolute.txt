@@ -1,0 +1,10 @@
+/mnt/c/Users/Zhiquan.Wang/Documents/SourceCode/Git-Repository/Computer-Graphics-Related-Library/MatrixOperation_CSharp/bin/Debug/netcoreapp2.0/MatrixOperation_CSharp.deps.json
+/mnt/c/Users/Zhiquan.Wang/Documents/SourceCode/Git-Repository/Computer-Graphics-Related-Library/MatrixOperation_CSharp/bin/Debug/netcoreapp2.0/MatrixOperation_CSharp.runtimeconfig.json
+/mnt/c/Users/Zhiquan.Wang/Documents/SourceCode/Git-Repository/Computer-Graphics-Related-Library/MatrixOperation_CSharp/bin/Debug/netcoreapp2.0/MatrixOperation_CSharp.runtimeconfig.dev.json
+/mnt/c/Users/Zhiquan.Wang/Documents/SourceCode/Git-Repository/Computer-Graphics-Related-Library/MatrixOperation_CSharp/bin/Debug/netcoreapp2.0/MatrixOperation_CSharp.dll
+/mnt/c/Users/Zhiquan.Wang/Documents/SourceCode/Git-Repository/Computer-Graphics-Related-Library/MatrixOperation_CSharp/bin/Debug/netcoreapp2.0/MatrixOperation_CSharp.pdb
+/mnt/c/Users/Zhiquan.Wang/Documents/SourceCode/Git-Repository/Computer-Graphics-Related-Library/MatrixOperation_CSharp/obj/Debug/netcoreapp2.0/MatrixOperation_CSharp.csproj.CoreCompileInputs.cache
+/mnt/c/Users/Zhiquan.Wang/Documents/SourceCode/Git-Repository/Computer-Graphics-Related-Library/MatrixOperation_CSharp/obj/Debug/netcoreapp2.0/MatrixOperation_CSharp.AssemblyInfoInputs.cache
+/mnt/c/Users/Zhiquan.Wang/Documents/SourceCode/Git-Repository/Computer-Graphics-Related-Library/MatrixOperation_CSharp/obj/Debug/netcoreapp2.0/MatrixOperation_CSharp.AssemblyInfo.cs
+/mnt/c/Users/Zhiquan.Wang/Documents/SourceCode/Git-Repository/Computer-Graphics-Related-Library/MatrixOperation_CSharp/obj/Debug/netcoreapp2.0/MatrixOperation_CSharp.dll
+/mnt/c/Users/Zhiquan.Wang/Documents/SourceCode/Git-Repository/Computer-Graphics-Related-Library/MatrixOperation_CSharp/obj/Debug/netcoreapp2.0/MatrixOperation_CSharp.pdb
