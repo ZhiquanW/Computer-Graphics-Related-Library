@@ -664,24 +664,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mySab\\.nuget\\packages\\": {},
+    "C:\\Users\\Zhiquan.Wang\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\mySab\\Documents\\SourceCode\\Git-Repository\\Computer-Graphics-Related-Library\\MatrixOperation_CSharp\\MatrixOperation_CSharp.csproj",
+      "projectUniqueName": "c:\\Users\\Zhiquan.Wang\\Documents\\SourceCode\\Git-Repository\\Computer-Graphics-Related-Library\\MatrixOperation_CSharp\\MatrixOperation_CSharp.csproj",
       "projectName": "MatrixOperation_CSharp",
-      "projectPath": "c:\\Users\\mySab\\Documents\\SourceCode\\Git-Repository\\Computer-Graphics-Related-Library\\MatrixOperation_CSharp\\MatrixOperation_CSharp.csproj",
-      "packagesPath": "C:\\Users\\mySab\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\mySab\\Documents\\SourceCode\\Git-Repository\\Computer-Graphics-Related-Library\\MatrixOperation_CSharp\\obj\\",
+      "projectPath": "c:\\Users\\Zhiquan.Wang\\Documents\\SourceCode\\Git-Repository\\Computer-Graphics-Related-Library\\MatrixOperation_CSharp\\MatrixOperation_CSharp.csproj",
+      "packagesPath": "C:\\Users\\Zhiquan.Wang\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\Zhiquan.Wang\\Documents\\SourceCode\\Git-Repository\\Computer-Graphics-Related-Library\\MatrixOperation_CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mySab\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Zhiquan.Wang\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
