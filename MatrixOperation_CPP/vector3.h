@@ -6,7 +6,7 @@
 #define MATRIXOPERATION_CPP_VECTOR3_H
 
 
-#include <iosfwd>
+#include <iostream>
 
 class vector3 {
 private:
@@ -72,8 +72,6 @@ inline vector3 operator*(const vector3 &, const double &);
 
 inline vector3 operator/(const vector3 &, const vector3 &);
 
-inline vector3 operator/(const vector3 &
-
-.const double &);
+inline vector3 operator/(const vector3 &, const double &);
 
 #endif //MATRIXOPERATION_CPP_VECTOR3_H

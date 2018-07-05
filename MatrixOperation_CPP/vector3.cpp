@@ -5,9 +5,7 @@
 #include "vector3.h"
 #include <cmath>
 
-vector3::vector3() {
-
-}
+vector3::vector3() = default;
 
 vector3::vector3(double _n0, double _n1, double _n2) {
     this->vec3[0] = _n0;
@@ -106,4 +104,30 @@ inline const vector3 &vector3::normalize() {
         data /= length();
     }
     return *this;
+}
+
+inline std::istream & operator>>(std::istream _is,vector3 & _v){
+    _is >> _v[0] >> _v[1] >> _v[2];
+    return _is;
+}
+
+inline std::ostream &operator<<(std::ostream & _os,const vector3 & _v) {
+    _os << "(" << _v[0] << "," << _v[1] << "," << _v[2] << ")";
+    return _os;
+}
+
+inline double dot(const vector3 & _v0,const vector3 & _v1){
+    double tmp_result = 0;
+    for(int i = 0;i < 3;++ i){
+        tmp_result += _v0[i]*_v1[i];
+    }
+    return tmp_result;
+}
+
+inline vector3 cross(const vector3 & _v0,const vector3 _v1){
+    return {_v0[1]*_v1[2]-_v0[2]*_v1[1],_v0[2]*_v1[0]-_v0[0]*_v1[2],_v0[0]*_v1[1]-_v0[1]*_v1[0]};
+}
+
+inline vector3 operator+(const vector3& _v0, const vector3 & _v1){
+    return {_v0[0]+_v1[0],_v0[1]+_v1[1],_v0[2]+_v1[2]};
 }
