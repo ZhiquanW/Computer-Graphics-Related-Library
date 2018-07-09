@@ -1,3 +1,6 @@
+//
+// Created by ZhiquanWang on 2018/7/9.
+//
 #ifndef _SH_PNGMASTER_
 #define _SH_PNGMASTER_
 
