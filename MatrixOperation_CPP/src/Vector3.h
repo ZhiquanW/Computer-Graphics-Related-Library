@@ -19,6 +19,8 @@ public:
 
     Vector3(double, double, double);
 
+    inline void setVector(double,double,double);
+
     inline double x() const;
 
     inline double y() const;
@@ -73,6 +75,12 @@ Vector3::Vector3(double _n0, double _n1, double _n2) {
     this->vec3[0] = _n0;
     this->vec3[1] = _n1;
     this->vec3[2] = _n2;
+}
+
+inline void Vector3::setVector(double _p0, double _p1, double _p2) {
+    vec3[0] = _p0;
+    vec3[1] = _p1;
+    vec3[2] = _p2;
 }
 
 double Vector3::x() const {
@@ -218,6 +226,10 @@ inline Vector3 operator*(const Vector3 &_v0, const Vector3 &_v1) {
 }
 
 inline Vector3 operator*(const Vector3 &_v0, const double &_d) {
+    return {_v0[0] * _d, _v0[1] * _d, _v0[2] * _d};
+}
+
+inline Vector3 operator*(const double &_d, const Vector3 &_v0) {
     return {_v0[0] * _d, _v0[1] * _d, _v0[2] * _d};
 }
 
