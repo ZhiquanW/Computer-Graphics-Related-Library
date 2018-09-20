@@ -2,9 +2,6 @@
 // Created by ZhiquanWang on 2018/7/9.
 //
 #include "PNGMaster.h"
-#include <iostream>
-using namespace std;
-
 int main(){
     //生成对象,设置图片大小:高*宽
     //像素标记方式,从上到下,从左到右
