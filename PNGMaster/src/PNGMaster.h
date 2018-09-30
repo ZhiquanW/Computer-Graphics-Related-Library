@@ -38,14 +38,10 @@ public:
 
     void genPNG(const char *_name) {
         FILE *fp = fopen(_name, "wb");
-        unsigned char *tmp_p = data;
         svpng(fp, width, height, data, 1);
         fclose(fp);
     }
 
-    ~PNGMaster() {
-        delete[] data;
-    }
 };
 
 #endif
